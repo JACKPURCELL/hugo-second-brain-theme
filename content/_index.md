@@ -9,7 +9,7 @@ image:
   caption: China
   height: 400
 ---
-
+Author: Guanru Wang
 <!-- 
 Welcome to the _Second Brain_ template!
 
