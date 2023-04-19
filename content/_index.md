@@ -8,7 +8,6 @@ image:
   caption: China
   height: 400
 ---
-![avatar](covers/ea.png)
 
 <!-- 
 Welcome to the _Second Brain_ template!
