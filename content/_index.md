@@ -2,8 +2,7 @@
 title: Personal Information Protection in Local Data Legislation in China
 date: 2022-09-24
 toc: false
-author: "Guanru Wang"
-authors: "Guanru Wang"
+
 image:
   filename: covers/ea.png
   caption: China
