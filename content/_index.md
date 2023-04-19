@@ -6,6 +6,7 @@ toc: false
 image:
   filename: covers/ea.png
   caption: China
+  height: 400
 ---
 <!-- 
 Welcome to the _Second Brain_ template!
