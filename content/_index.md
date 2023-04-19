@@ -1,5 +1,5 @@
 ---
-title: Personal Information Protection in Local Data Legislation in China and Comparison
+title: Personal Information Protection in Local Data Legislation in China
 date: 2022-09-24
 toc: false
 
