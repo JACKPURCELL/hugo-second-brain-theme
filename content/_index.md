@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/ab.png
+  filename: covers/ab.jpg
   caption: China
   height: 400
 ---
