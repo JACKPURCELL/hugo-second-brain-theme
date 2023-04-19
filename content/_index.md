@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: Personal Information Protection in Local Data Legislation in China and Comparison
 date: 2022-09-24
 toc: false
 
@@ -7,7 +7,7 @@ image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
   caption: NASA
 ---
-
+<!-- 
 Welcome to the _Second Brain_ template!
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
@@ -38,4 +38,4 @@ To create a **private second brain** either:
 
 ## Example notebook
 
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}} -->
